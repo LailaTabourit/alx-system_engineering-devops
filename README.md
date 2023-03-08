@@ -1,3 +1,2 @@
 # alx-system_engineering-devops
-I'm now a ALX Student, this is my repository as a full-stack engineer
-This is my readme
+I'm now a ALX Student, this is my repository as a full-stack engineer. And this is my readme
