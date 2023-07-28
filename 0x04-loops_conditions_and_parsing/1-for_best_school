@@ -1,5 +1,5 @@
-#!/usr/bin/env bash
-#display 100 times best school
+#!usr/bin/env bash
+# display best school 10 times 
 
 DISP_MSG="Best School"
 
