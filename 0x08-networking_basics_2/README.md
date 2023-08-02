@@ -79,3 +79,4 @@
   <p>This repository is open-source and licensed under the <a href="LICENSE">MIT License</a>. Feel free to use,
         modify, and distribute the code examples and explanations for educational or personal use. However, please refer
         to the License file for more details on the permissions and restrictions.</p>
+<h6>For more info: <a href="https://www.makeuseof.com/tag/5-best-dynamic-dns-providers-can-lookup-free-today/"> here</a></h6>
