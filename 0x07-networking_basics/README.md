@@ -55,7 +55,13 @@
     <h2 id="tcpudp-ports-list">TCP/UDP Ports List</h2>
     <p>TCP and UDP use port numbers to identify specific applications or services running on a device. A port number is like an address used to direct data to the right application. This section provides a list of commonly used TCP and UDP port numbers.</p>
     <h2 id="what-is-pingicmp">What is Ping/ICMP</h2>
-    <p>Ping is a utility used to test the reachability of a host on a network and measure the round-trip time for data to travel from the source to the destination. ICMP (Internet Control Message Protocol) is the underlying protocol used by Ping to send echo request and receive echo reply messages.</p>
+    <p>Ping is a utility used to test the reachability of a host on a network and measure the round-trip time for data to travel from the source to the destination. ICMP (Internet Control Message Protocol) is the underlying protocol used by Ping to send echo request and receive echo reply messages.
+    <h6>
+	<ul>
+	   <li>22 for SSH</li>
+	   <li>80 for HTTP</li>
+ 	   <li>443 for HTTPS</li>
+    </h6></p>
 
    <h2 id="positional-parameters">Positional Parameters</h2>
     <p>Positional parameters are variables used in shell scripts and command-line interfaces to accept arguments provided by the user when executing a script or command. These parameters are referred to by their position, starting with $1 for the first argument, $2 for the second, and so on.</p>
