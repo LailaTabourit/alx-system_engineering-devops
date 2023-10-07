@@ -1,4 +1,4 @@
-#!?usr/bin/env bash
+#!/usr/bin/env bash
 # Takes a subdomain and a domain and returns information about the subdomain
 
 print_info () {
